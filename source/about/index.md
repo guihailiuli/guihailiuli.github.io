@@ -5,6 +5,6 @@
 
 **博客主题**
 
-使用的[polk](https://github.com/chunqiuyiyu/hexo-theme-polk)
+使用的[maupassant](https://github.com/pagecho/maupassant/)
 
 
