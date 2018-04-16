@@ -1,2 +1,2 @@
-# guihailiuli.github.io
+# linbei.life
 My blog
